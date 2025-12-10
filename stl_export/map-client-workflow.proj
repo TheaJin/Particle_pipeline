@@ -1,0 +1,40 @@
+[General]
+id=map-client-workflow
+version=0.21.4
+
+[nodes]
+nodelist\1\connections\1\connectedFromIndex=0
+nodelist\1\connections\1\connectedTo=2
+nodelist\1\connections\1\connectedToIndex=0
+nodelist\1\connections\1\selected=false
+nodelist\1\connections\size=1
+nodelist\1\identifier=File_Chooser
+nodelist\1\name=File Chooser
+nodelist\1\position=@Variant(\0\0\0\x1a@m\xa0\0\0\0\0\0@qD\xbc\x88\xc7\x9f\xe2)
+nodelist\1\selected=false
+nodelist\1\source_uri=https://github.com/mapclient-plugins/mapclientplugins.filechooserstep
+nodelist\1\unique_identifier=d8d4a79a-5087-11f0-971d-d950706e4ab4
+nodelist\2\connections\size=0
+nodelist\2\identifier=Argon_Scene_Exporter
+nodelist\2\name=Argon Scene Exporter
+nodelist\2\position=@Variant(\0\0\0\x1a@\x85\xc8\0\0\0\0\0@q\x89\n*\x83<\x12)
+nodelist\2\selected=false
+nodelist\2\source_uri=https://github.com/mapclient-plugins/mapclientplugins.argonsceneexporterstep
+nodelist\2\unique_identifier=e1579828-5087-11f0-971d-d950706e4ab4
+nodelist\3\connections\1\connectedFromIndex=1
+nodelist\3\connections\1\connectedTo=1
+nodelist\3\connections\1\connectedToIndex=0
+nodelist\3\connections\1\selected=false
+nodelist\3\connections\size=1
+nodelist\3\identifier=Argon_Viewer
+nodelist\3\name=Argon Viewer
+nodelist\3\position=@Point(441 285)
+nodelist\3\selected=true
+nodelist\3\source_uri=https://github.com/mapclient-plugins/mapclientplugins.argonviewerstep
+nodelist\3\unique_identifier=d86996ce-5561-11f0-971d-d950706e4ab4
+nodelist\size=3
+
+[view]
+rect=@Variant(\0\0\0\x14@$\0\0\0\0\0\0@$\0\0\0\0\0\0@\x90\f\0\0\0\0\0@\x84x\0\0\0\0\0)
+scale=1
+transform=@Variant(\0\0\0Q?\xf0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0?\xf0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0?\xf0\0\0\0\0\0\0)
